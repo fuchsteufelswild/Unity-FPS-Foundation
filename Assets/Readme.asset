@@ -28,6 +28,33 @@ MonoBehaviour:
     Url:
     - https://github.com/fuchsteufelswild/Unity-Core-Utilities
     - https://github.com/fuchsteufelswild/Unity-FPS-Foundation
+  - Heading: <size=20px>Controls</size>
+    Text: '- <b>Movement:</b> `WASD`
+
+      - <b>Look:</b> `Mouse Movement`
+
+      -
+      <b>Jump:</b> `Spacebar`
+
+      - <b>Sprint:</b> Hold `Left Shift`
+
+      -
+      <b>Crouch / Slide:</b> Press `C` to crouch. Press `C` while sprinting to slide.
+
+      -
+      <b>Aim:</b> Hold `Right Mouse Button`
+
+      - <b>Fire:</b> `Left Mouse Button`
+
+      -
+      <b>Reload:</b> `R`
+
+      - <b>Fire Mode Select:</b> Press `B` to cycle through
+      fire modes.
+
+      - <b>Interact:</b> `F`'
+    LinkText: []
+    Url: []
   - Heading: <size=20px>Features</size>
     Text: '- <b>Procedural FPS Animation:</b> A comprehensive system for head and
       hands motion (Bobbing, Strafe, Jump, Look, and more).

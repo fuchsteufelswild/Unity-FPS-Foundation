@@ -1,12 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEditor;
-using System;
 using System.IO;
 using System.Reflection;
-using System.Linq;
-using System.Text.RegularExpressions;
 using Nexora.Editor;
 
 [CustomEditor(typeof(Readme))]
