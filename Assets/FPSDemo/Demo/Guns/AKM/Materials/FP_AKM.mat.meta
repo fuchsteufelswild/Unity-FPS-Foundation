@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8189322505c28cd418db083434e4b527
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Wieldables/AKM/Materials/FP_AKM.mat
+  uploadId: 760615

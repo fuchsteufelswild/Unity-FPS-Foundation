@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da604f7383808704db6ead13ff6283ea, type: 3}
+  m_Name: SaveModule
+  m_EditorClassIdentifier: 
+  _thumbnailExtractMethod: 0
+  _sceneTransitionHandler:
+    rid: 2363036966212075580
+  _fadeTransitionPrefab: {fileID: 0}
+  _fileSystem:
+    rid: 2363036966212075579
+  _saveIndexValidator:
+    rid: 2363036890601357314
+  _savePathProvider:
+    rid: 2363036890356776963
+  _serializer:
+    rid: 2363036890356776964
+  references:
+    version: 2
+    RefIds:
+    - rid: 2363036890356776963
+      type: {class: DefaultSavePathProvider, ns: Nexora.SaveSystem, asm: Nexora.Core}
+      data: 
+    - rid: 2363036890356776964
+      type: {class: OdinSerializer, ns: Nexora.SaveSystem, asm: Nexora.Core}
+      data: 
+    - rid: 2363036890601357314
+      type: {class: DefaultSaveIndexValidator, ns: Nexora.SaveSystem, asm: Nexora.Core}
+      data:
+        maxSaveFiles: 0
+    - rid: 2363036966212075579
+      type: {class: UnityFileSystem, ns: Nexora.SaveSystem, asm: Nexora.Core}
+      data: 
+    - rid: 2363036966212075580
+      type: {class: DefaultSceneTransitionHandler, ns: Nexora.SaveSystem, asm: Nexora.Core}
+      data: 

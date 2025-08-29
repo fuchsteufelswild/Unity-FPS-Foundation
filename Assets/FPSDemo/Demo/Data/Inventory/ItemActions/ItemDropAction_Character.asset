@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2e762b3adf871640875cdabca4d9fd4, type: 3}
+  m_Name: ItemDropAction_Character
+  m_EditorClassIdentifier: 
+  _displayName: Drop
+  _verb: Dropping
+  _icon: {fileID: 21300000, guid: dfd66749e4fef8749a3cce644154cf3a, type: 3}
+  _dropPositionOffset: {x: 0, y: -0.3, z: 0.15}
+  _dropPoint: 0
+  _dropForceMagnitude: 5
+  _dropSound:
+    Clip: {fileID: 0}
+    Volume: 0
+    Delay: 0
+  _removeFromInventoryOnDrop: 1

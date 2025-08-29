@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6c5fa66d89fb0a042aceaee4d9357980
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Prefabs/Surfaces/FPS_VFX_Concrete_Hit.prefab
+  uploadId: 760615

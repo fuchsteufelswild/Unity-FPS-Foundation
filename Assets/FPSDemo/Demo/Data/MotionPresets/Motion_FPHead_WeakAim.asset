@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e9e638d9dcc614582fca6890504e7a, type: 3}
+  m_Name: Motion_FPHead_WeakAim
+  m_EditorClassIdentifier: 
+  _fallbackPreset: {fileID: 0}
+  _stateMotionData:
+  - State: 0
+    MotionData:
+    - rid: 7394553877472215119
+    - rid: 7394553877472215118
+  references:
+    version: 2
+    RefIds:
+    - rid: 7394553877472215118
+      type: {class: NoiseMotionData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        NoiseSpeed: 2
+        Jitter: 0.45
+        PositionAmplitude: {x: 0, y: 0, z: 0}
+        RotationAmplitude: {x: 0.3, y: 0.3, z: 0.5}
+    - rid: 7394553877472215119
+      type: {class: BobData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        CalculationMethod: 1
+        TimeBasedBobSpeed: 1
+        PositionSpring:
+          DampingRatio: 10
+          SpringStrength: 100
+          Speed: 1
+        PositionStepImpulseForce:
+          Impulse: {x: 0, y: 0, z: 0}
+          Duration: 0.125
+        PositionAmplitude: {x: 0, y: 0, z: 0}
+        RotationSpring:
+          DampingRatio: 10
+          SpringStrength: 100
+          Speed: 1
+        RotationStepImpulseForce:
+          Impulse: {x: 0, y: 0, z: 0}
+          Duration: 0.125
+        RotationAmplitude: {x: -1, y: 1, z: 0.35}

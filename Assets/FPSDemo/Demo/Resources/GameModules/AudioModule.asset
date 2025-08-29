@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eab0f769ed853de4c88464215a7db446, type: 3}
+  m_Name: AudioModule
+  m_EditorClassIdentifier: 
+  _mainMixer: {fileID: 24100000, guid: 17fc8f47ea9488f4ab672ed119064f7d, type: 2}
+  _defaultMixerSnaphot: {fileID: 24500006, guid: 17fc8f47ea9488f4ab672ed119064f7d, type: 2}
+  _audioMixerGroups:
+    _masterMixerGroup: {fileID: 24300002, guid: 17fc8f47ea9488f4ab672ed119064f7d, type: 2}
+    _musicMixerGroup: {fileID: 8882309479727829081, guid: 17fc8f47ea9488f4ab672ed119064f7d, type: 2}
+    _sfxMixerGroup: {fileID: -1478010164359508450, guid: 17fc8f47ea9488f4ab672ed119064f7d, type: 2}
+    _uiMixerGroup: {fileID: 7361140467383072940, guid: 17fc8f47ea9488f4ab672ed119064f7d, type: 2}
+  _audioSourceCountRange2D: {x: 8, y: 16}
+  _audioSourceCountRange3D: {x: 16, y: 64}

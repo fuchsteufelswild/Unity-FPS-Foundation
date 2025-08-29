@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2435096284acc4144bd08d9d7d2748c7, type: 3}
+  m_Name: SlideConfig_Player
+  m_EditorClassIdentifier: 
+  _speedCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.05968704
+      value: 0.99501646
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1.4
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _enterSpeedCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: -0.004159185
+      outSlope: -0.004159185
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.047364537
+    - serializedVersion: 3
+      time: 3.4863281
+      value: 0.5083313
+      inSlope: 0.27070075
+      outSlope: 0.27070075
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.17682712
+    - serializedVersion: 3
+      time: 4.9600067
+      value: 0.99432755
+      inSlope: 0.021626959
+      outSlope: 0.021626959
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.2209568
+    - serializedVersion: 3
+      time: 6
+      value: 1
+      inSlope: 0.0054543186
+      outSlope: 0.0054543186
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _impulse: 7.5
+  _minRequiredSpeed: 4.5
+  _stopSpeed: 2
+  _height: 1
+  _acceleration: 7.5
+  _inputInfluence: 0.75
+  _slopeFactor: 2
+  _slideAudio:
+    Clip: {fileID: 8300000, guid: 82e40952ad0a7894d8c889609d620797, type: 3}
+    Volume: 1
+    Delay: 0
+  _slideAudioDuration: 1

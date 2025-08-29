@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5ff436e8e936e540b0d7ee76d06575c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Art/VFX/Smoke/ThickSmokePuff.mat
+  uploadId: 760615

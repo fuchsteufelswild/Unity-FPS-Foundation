@@ -1,0 +1,24 @@
+{
+    "name": "Nexora.InventorySystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0cbe6a1e7e197f044a55eaf07a99f4a9",
+        "GUID:696a0953692949b40bec8730e64e1fdd",
+        "GUID:1b845e2499b39be4aab3e6ac2c8aa02a",
+        "GUID:fbe24014c4588f746955c35dee025432",
+        "GUID:a7efc793fabd3e540b9234597b125b6f",
+        "GUID:843267ae61fe19c4e9b561b7db31c4ff",
+        "GUID:140e391985082af489d42bddba4b627f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

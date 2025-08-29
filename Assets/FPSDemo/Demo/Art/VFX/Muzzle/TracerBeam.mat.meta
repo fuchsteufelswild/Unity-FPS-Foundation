@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28e632dae0b32f34c8350150a4bc3e9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Art/VFX/Muzzle/TracerBeam.mat
+  uploadId: 760615

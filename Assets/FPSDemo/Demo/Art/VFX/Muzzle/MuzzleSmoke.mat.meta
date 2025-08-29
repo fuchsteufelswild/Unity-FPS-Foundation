@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91a3e7af5a8a3e342b50e2f65cbeb46a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Art/VFX/Muzzle/MuzzleSmoke.mat
+  uploadId: 760615

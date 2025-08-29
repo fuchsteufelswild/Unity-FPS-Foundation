@@ -1,0 +1,17 @@
+{
+    "name": "Nexora.InteractionSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fbe24014c4588f746955c35dee025432",
+        "GUID:696a0953692949b40bec8730e64e1fdd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

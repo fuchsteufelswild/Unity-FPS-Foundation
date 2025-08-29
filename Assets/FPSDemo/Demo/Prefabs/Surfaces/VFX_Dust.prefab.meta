@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60e831dc2eea4f340b3b75d961fe164e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Prefabs/Surfaces/FPS_VFX_Dust.prefab
+  uploadId: 760615

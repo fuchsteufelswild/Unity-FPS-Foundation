@@ -1,0 +1,27 @@
+{
+    "name": "Nexora.FPSDemo.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fbe24014c4588f746955c35dee025432",
+        "GUID:0486b4b49848a294b825e4d2ffe320b7",
+        "GUID:0cbe6a1e7e197f044a55eaf07a99f4a9",
+        "GUID:a7efc793fabd3e540b9234597b125b6f",
+        "GUID:5e823e3cf8ba33c48b9bf90792423495",
+        "GUID:5351f2afb432da94cad62ff7bc9e3ad5",
+        "GUID:5d62bf654848c1645aba1844170e46f2",
+        "GUID:b9294e41b78d20347bdcd4e26d8040e0",
+        "GUID:696a0953692949b40bec8730e64e1fdd",
+        "GUID:1b845e2499b39be4aab3e6ac2c8aa02a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7291ae479f5414a893c2c180767f3b, type: 3}
+  m_Name: Shake_Camera_Recoil
+  m_EditorClassIdentifier: 
+  PositionShake:
+    AmplitudeX: 0.03
+    AmplitudeY: 0.03
+    AmplitudeZ: 0.03
+    ShakeSpeed: 27
+    Spring:
+      DampingRatio: 15
+      SpringStrength: 200
+      Speed: 1.2
+  RotationShake:
+    AmplitudeX: 2
+    AmplitudeY: 2
+    AmplitudeZ: 7.5
+    ShakeSpeed: 27
+    Spring:
+      DampingRatio: 12
+      SpringStrength: 135
+      Speed: 1.05

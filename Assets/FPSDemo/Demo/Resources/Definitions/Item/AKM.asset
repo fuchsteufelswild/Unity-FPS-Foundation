@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f13ae6f65a6714ea1f923c7e07a453, type: 3}
+  m_Name: AKM
+  m_EditorClassIdentifier: 
+  _id: -883615780
+  _owningCategory: {fileID: 11400000, guid: e40273d400dfe2448ba912dc8cc3b03c, type: 2}
+  _shortDescription: 
+  _longDescription: 
+  _icon: {fileID: 21300000, guid: dfd66749e4fef8749a3cce644154cf3a, type: 3}
+  _worldPickupPrefab: {fileID: 303040441428146925, guid: 5dcc3faa0240e934fafd8ee7e507c801, type: 3}
+  _stackedWorldPickupPrefab: {fileID: 0}
+  _weight: 4
+  _maxStackSize: 1
+  _itemTag:
+    _definitionID: 556265618
+  _itemRarity:
+    _definitionID: 1914250887
+  _itemActions: []
+  _dynamicProperties:
+  - _itemPropertyDefinition: 1709454880
+    _valueRange: {x: 30, y: 30}
+    _generateRandomValue: 0
+  - _itemPropertyDefinition: 1387350247
+    _valueRange: {x: 100, y: 100}
+    _generateRandomValue: 0
+  - _itemPropertyDefinition: 1855977883
+    _valueRange: {x: 0, y: 0}
+    _generateRandomValue: 0
+  _sharedItemBehaviours: []
+  references:
+    version: 2
+    RefIds: []

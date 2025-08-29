@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19dd70780445c654091a30f69e1a067c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Ammunition/Materials/AmmoPacks.mat
+  uploadId: 760615

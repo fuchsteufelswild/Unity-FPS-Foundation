@@ -1,0 +1,20 @@
+{
+    "name": "Nexora.FPSDemo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fbe24014c4588f746955c35dee025432",
+        "GUID:5351f2afb432da94cad62ff7bc9e3ad5",
+        "GUID:a7efc793fabd3e540b9234597b125b6f",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:696a0953692949b40bec8730e64e1fdd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

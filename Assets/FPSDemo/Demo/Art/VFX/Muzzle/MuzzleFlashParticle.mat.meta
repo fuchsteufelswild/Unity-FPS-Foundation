@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 527027c8baf2f0540be3104a3ec38a99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Art/VFX/Muzzle/MuzzleFlashParticle.mat
+  uploadId: 760615

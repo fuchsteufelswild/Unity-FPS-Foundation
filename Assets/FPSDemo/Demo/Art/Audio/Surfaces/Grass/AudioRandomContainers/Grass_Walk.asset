@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-6807966905451002670
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_06_{-6807966905451002670}
+  m_AudioClip: {fileID: 8300000, guid: a7aca5032e18b694e80967aec44cab4b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5692016526829089115
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_04_{-5692016526829089115}
+  m_AudioClip: {fileID: 8300000, guid: fb74d560849cada4dbcd2caa2f51aeb6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-647288345372803211
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_10_{-647288345372803211}
+  m_AudioClip: {fileID: 8300000, guid: 9b96e6612dc6a964bbad8be8887f57aa, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-98101514035264142
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_09_{-98101514035264142}
+  m_AudioClip: {fileID: 8300000, guid: 15fe8796bc41fab4eb3e09e460b36573, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2220653283857271872
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_05_{2220653283857271872}
+  m_AudioClip: {fileID: 8300000, guid: 5f7bea86f63e4eb4ebe6da295efcc50a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3162824154803452042
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_07_{3162824154803452042}
+  m_AudioClip: {fileID: 8300000, guid: 1b56f59aeeb55d94d90cc719fdc99410, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3694299982267325711
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_03_{3694299982267325711}
+  m_AudioClip: {fileID: 8300000, guid: 8505eb76846c763498dec06e8558f49b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &6090153675210848098
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_01_{6090153675210848098}
+  m_AudioClip: {fileID: 8300000, guid: 1d36ce8ad094b514f9d586543f5ed990, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &6364665487039069022
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_08_{6364665487039069022}
+  m_AudioClip: {fileID: 8300000, guid: 03eff4e39b751974c82be6bdc47bbf56, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grass_Walk
+  m_Volume: -3
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -5, y: 0}
+  m_PitchRandomizationRange: {x: -75, y: 75}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 6090153675210848098}
+  - {fileID: 8218374739178803657}
+  - {fileID: 3694299982267325711}
+  - {fileID: -5692016526829089115}
+  - {fileID: 2220653283857271872}
+  - {fileID: -6807966905451002670}
+  - {fileID: 3162824154803452042}
+  - {fileID: 6364665487039069022}
+  - {fileID: -98101514035264142}
+  - {fileID: -647288345372803211}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 1
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &8218374739178803657
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Walk_Grass_Mono_02_{8218374739178803657}
+  m_AudioClip: {fileID: 8300000, guid: 346d1025fe1c48b43a4876ed23198e8d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

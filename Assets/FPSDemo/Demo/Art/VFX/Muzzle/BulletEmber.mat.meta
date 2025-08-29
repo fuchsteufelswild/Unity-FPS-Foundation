@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5f1b03fdea641c4697f028e3a31ae14
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Art/VFX/Muzzle/BulletEmber.mat
+  uploadId: 760615

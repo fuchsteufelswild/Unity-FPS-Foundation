@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 2800000, guid: d285aeec8b0ca59488b08a441107f32b, type: 3}
+  Title: Unity FPS Foundation
+  Sections:
+  - Heading: <size=20px>Overview</size>
+    Text: A robust, modular data-driven foundation for building first-person shooter
+      games in Unity. Built upon the systems provided in my Unity Core Utilities
+      project, this framework provides a complete suite of AAA-quality systems -
+      from procedural animation and weapon handling to inventory and interaction,
+      with extensibility and easy-to-use kept as main objective. Detailed information
+      can be found on the GitHub link.
+    LinkText:
+    - Unity Core Utilities (GitHub)
+    - Unity FPS Foundation (GitHub)
+    Url:
+    - https://github.com/fuchsteufelswild/Unity-Core-Utilities
+    - https://github.com/fuchsteufelswild/Unity-FPS-Foundation
+  - Heading: <size=20px>Features</size>
+    Text: '- <b>Procedural FPS Animation:</b> A comprehensive system for head and
+      hands motion (Bobbing, Strafe, Jump, Look, and more).
+
+
+      - <b>Modular
+      Ranged Weapon System:</b> Guns built from 10+ decoupled subsystems (Aim, Magazine,
+      Recoil, etc.) for unparalleled flexibility with easy plug in/out effector system.
+
+
+      -
+      <b>Data-Driven Inventory & Items:</b> A robust inventory system with dynamic
+      properties, constraints, and actions.
+
+
+      - <b>State-Based Character Controller:</b>
+      A fluid movement system built with state machine (Idle, Walk, Run, Crouch etc.)
+      and synced step-cycle for footsteps along with advanced character controller.
+
+
+      -
+      <b>Interaction System:</b> A standalone, interface-based interaction system
+      with no dependencies, ready to use for any project.
+
+
+      - <b>Surface &
+      Impact System:</b> Define data-based surfaces and detect or play appropriate
+      effects (audio, VFX, decals) on impact.
+
+
+      - <b>Input Layer:</b> Built
+      on Unity''s New Input System with a clean abstraction for easy management.'
+    LinkText: []
+    Url: []
+  LoadedLayout: 0

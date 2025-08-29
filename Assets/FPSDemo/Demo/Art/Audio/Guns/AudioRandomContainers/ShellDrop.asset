@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-4297810406481564241
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: S_WEP_Casing_01_{-4297810406481564241}
+  m_AudioClip: {fileID: 8300000, guid: d179f2c41848ad54c8116e3fc9226288, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2144006194539311717
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: S_WEP_Casing_02_{-2144006194539311717}
+  m_AudioClip: {fileID: 8300000, guid: 4e960baff91d9f34bb6d72f1c538c3bf, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1287564025309314443
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: S_WEP_Casing_04_{1287564025309314443}
+  m_AudioClip: {fileID: 8300000, guid: b46a484a46ba10c4a8576ddb01662c51, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2009561111106661260
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: S_WEP_Casing_03_{2009561111106661260}
+  m_AudioClip: {fileID: 8300000, guid: 8fb854a140706f04595cd6bf9452dc4c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5628747000032043912
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: S_WEP_Casing_05_{5628747000032043912}
+  m_AudioClip: {fileID: 8300000, guid: 204cb8032edcdac48ae0703bdee53d0c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShellDrop
+  m_Volume: -3
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -5, y: 0}
+  m_PitchRandomizationRange: {x: -40, y: 40}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -4297810406481564241}
+  - {fileID: -2144006194539311717}
+  - {fileID: 2009561111106661260}
+  - {fileID: 1287564025309314443}
+  - {fileID: 5628747000032043912}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 1
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0

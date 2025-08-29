@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-7005211213302271535
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_08_{-7005211213302271535}
+  m_AudioClip: {fileID: 8300000, guid: dfdac87b9f4bc8d48a236927c7e302d7, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5869471136453716554
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_10_{-5869471136453716554}
+  m_AudioClip: {fileID: 8300000, guid: a7383d662a1ae424e9587e8e9b62b60c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5842499767552107076
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_01_{-5842499767552107076}
+  m_AudioClip: {fileID: 8300000, guid: 6d6396a38bbe42a42ab19a409d537482, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4984765000183524102
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_04_{-4984765000183524102}
+  m_AudioClip: {fileID: 8300000, guid: 84e310a530c86224e82486bbfd842c63, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3164526072672749239
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_09_{-3164526072672749239}
+  m_AudioClip: {fileID: 8300000, guid: b58d8d5c6cf43254b95b34444cb2bdc5, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-482986091788586559
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_02_{-482986091788586559}
+  m_AudioClip: {fileID: 8300000, guid: a511893b7c732ea40a6a73e0cf7d2bdc, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1472171166728469262
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_05_{1472171166728469262}
+  m_AudioClip: {fileID: 8300000, guid: a2b29c077c78a9e4ab706e9c8cfaa3d7, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5776361398940316530
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_07_{5776361398940316530}
+  m_AudioClip: {fileID: 8300000, guid: d6c0a1b21ff613f43bf221dd8f73fd13, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grass_Jump
+  m_Volume: -3
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -5, y: 0}
+  m_PitchRandomizationRange: {x: -75, y: 75}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -5842499767552107076}
+  - {fileID: -482986091788586559}
+  - {fileID: 8363143697397371576}
+  - {fileID: -4984765000183524102}
+  - {fileID: 1472171166728469262}
+  - {fileID: 6789308842405781095}
+  - {fileID: 5776361398940316530}
+  - {fileID: -7005211213302271535}
+  - {fileID: -3164526072672749239}
+  - {fileID: -5869471136453716554}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 1
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6789308842405781095
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_06_{6789308842405781095}
+  m_AudioClip: {fileID: 8300000, guid: ea75e55ca4813ed4f9d96d1d6948b5fb, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8363143697397371576
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Start_03_{8363143697397371576}
+  m_AudioClip: {fileID: 8300000, guid: ee6b3b6794625484a9ed76f3af4de1fe, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

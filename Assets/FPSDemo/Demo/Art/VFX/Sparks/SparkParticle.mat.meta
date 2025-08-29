@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6492a173e6c03f48899880b96cca600
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Art/VFX/Sparks/SparkParticle.mat
+  uploadId: 760615

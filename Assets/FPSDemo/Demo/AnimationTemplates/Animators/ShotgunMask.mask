@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShotgunMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Bn_Shogun_Patron_mesh
+    m_Weight: 1
+  - m_Path: Bn_Shogun_Patron_mesh001
+    m_Weight: 1
+  - m_Path: Camera001
+    m_Weight: 1
+  - m_Path: Character001
+    m_Weight: 1
+  - m_Path: Character001Hub001
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit11
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit11/Character001LArmDigit12
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit11/Character001LArmDigit12/Character001LArmDigit13
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit21
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit21/Character001LArmDigit22
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit21/Character001LArmDigit22/Character001LArmDigit23
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit31
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit31/Character001LArmDigit32
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit31/Character001LArmDigit32/Character001LArmDigit33
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit41
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit41/Character001LArmDigit42
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit41/Character001LArmDigit42/Character001LArmDigit43
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit51
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit51/Character001LArmDigit52
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001LArmCollarbone/Character001LArm1/Character001LArm21/Character001LArm22/Character001LArmPalm/Character001LArmDigit51/Character001LArmDigit52/Character001LArmDigit53
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12/Character001RArmDigit13
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22/Character001RArmDigit23
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32/Character001RArmDigit33
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41/Character001RArmDigit42
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41/Character001RArmDigit42/Character001RArmDigit43
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51/Character001RArmDigit52
+    m_Weight: 1
+  - m_Path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51/Character001RArmDigit52/Character001RArmDigit53
+    m_Weight: 1
+  - m_Path: Character001LArmIKTarget
+    m_Weight: 1
+  - m_Path: Character001RArmIKTarget
+    m_Weight: 1
+  - m_Path: Group001
+    m_Weight: 1
+  - m_Path: Group001/Shogun_Base_mesh
+    m_Weight: 1
+  - m_Path: Group001/Shogun_Fore-End_mesh
+    m_Weight: 1
+  - m_Path: Group001/Shogun_Gate_mesh
+    m_Weight: 1
+  - m_Path: Group001/Shogun_Staple_mesh
+    m_Weight: 1
+  - m_Path: Group001/Shogun_Triger_mesh
+    m_Weight: 1
+  - m_Path: Group_arms
+    m_Weight: 1
+  - m_Path: Group_arms/Arm_mesh001
+    m_Weight: 1
+  - m_Path: Group_arms/Glove_mesh
+    m_Weight: 1
+  - m_Path: Hp_Shogun_Base_mesh
+    m_Weight: 1
+  - m_Path: Hp_Shogun_Base_mesh/Bn_Shogun_Base_mesh
+    m_Weight: 1
+  - m_Path: Hp_Shogun_Base_mesh/Bn_Shogun_Fore-End_mesh
+    m_Weight: 1
+  - m_Path: Hp_Shogun_Base_mesh/Bn_Shogun_Gate_mesh001
+    m_Weight: 1
+  - m_Path: Hp_Shogun_Base_mesh/Bn_Shogun_Staple_mesh
+    m_Weight: 1
+  - m_Path: Hp_Shogun_Base_mesh/Bn_Shogun_Triger_mesh
+    m_Weight: 1
+  - m_Path: Rectangle001
+    m_Weight: 1
+  - m_Path: Shogun_Patron_mesh
+    m_Weight: 1
+  - m_Path: Shogun_Patron_mesh001
+    m_Weight: 1

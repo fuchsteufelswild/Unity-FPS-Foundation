@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-2065482306779633861
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Land_08_{-2065482306779633861}
+  m_AudioClip: {fileID: 8300000, guid: 03d4dffac4f038f4980c6ed123b39ef4, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1539430935117749186
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Land_07_{-1539430935117749186}
+  m_AudioClip: {fileID: 8300000, guid: 3d356b5b4894d9a48a44ad916e0627a8, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1344301516639375491
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Land_10_{-1344301516639375491}
+  m_AudioClip: {fileID: 8300000, guid: ac2ff0b57b8ebd446bbceecc2fcb7338, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &91001296719016974
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Footsteps_Grass_Jump_Land_09_{91001296719016974}
+  m_AudioClip: {fileID: 8300000, guid: df275f80e792efe43a4ad951a68bede1, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grass_FallImpactHard
+  m_Volume: -3
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -5, y: 0}
+  m_PitchRandomizationRange: {x: -100, y: 100}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -1539430935117749186}
+  - {fileID: -2065482306779633861}
+  - {fileID: 91001296719016974}
+  - {fileID: -1344301516639375491}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 1
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0

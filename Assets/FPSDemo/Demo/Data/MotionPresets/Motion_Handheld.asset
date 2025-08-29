@@ -1,0 +1,533 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e9e638d9dcc614582fca6890504e7a, type: 3}
+  m_Name: Motion_Handheld
+  m_EditorClassIdentifier: 
+  _fallbackPreset: {fileID: 0}
+  _stateMotionData:
+  - State: 0
+    MotionData:
+    - rid: 7394553877472215099
+    - rid: 7394553877472215100
+    - rid: 7394553877472215101
+  - State: 1
+    MotionData:
+    - rid: 7394553877472215102
+  - State: 2
+    MotionData:
+    - rid: 7394553877472215103
+  - State: 3
+    MotionData:
+    - rid: 7394553877472215104
+  - State: 5
+    MotionData:
+    - rid: 7394553877472215105
+  - State: 4
+    MotionData:
+    - rid: 7394553877472215106
+  references:
+    version: 2
+    RefIds:
+    - rid: 7394553877472215099
+      type: {class: CompositeMotionData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        Fall:
+          PositionSpring:
+            DampingRatio: 8
+            SpringStrength: 100
+            Speed: 1
+          RotationSpring:
+            DampingRatio: 8
+            SpringStrength: 100
+            Speed: 1
+          PositionValue: 0
+          RotationValue: 1.3
+        Look:
+          MaxSway: 6
+          PositionSpring:
+            DampingRatio: 10
+            SpringStrength: 100
+            Speed: 1
+          RotationSpring:
+            DampingRatio: 7.5
+            SpringStrength: 125
+            Speed: 1.1
+          PositionSway: {x: -0.0025, y: -0.002, z: 0}
+          RotationSway: {x: 1.25, y: -0.4, z: 0.4}
+        Strafe:
+          MaxSway: 5
+          PositionSpring:
+            DampingRatio: 9
+            SpringStrength: 90
+            Speed: 1
+          RotationSpring:
+            DampingRatio: 5
+            SpringStrength: 90
+            Speed: 1
+          PositionSway: {x: -0.00125, y: 0, z: 0}
+          RotationSway: {x: 0, y: -0.6, z: 0.5}
+        Jump:
+          PositionSpring:
+            DampingRatio: 10
+            SpringStrength: 120
+            Speed: 1
+          RotationSpring:
+            DampingRatio: 10
+            SpringStrength: 75
+            Speed: 1
+          PositionCurves:
+            _multiplier: 0.02
+            _curveX:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 1
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0.052482665
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+            _curveY:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: -1
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 0.2
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0.052482665
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+            _curveZ:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 1
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+          RotationCurves:
+            _multiplier: 5
+            _curveX:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0.00075912476
+                value: -0.021469116
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 0.29541016
+                value: 0.0009460449
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0.052482665
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+            _curveY:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 1
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0.052482665
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+            _curveZ:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0.0053138733
+                value: -1
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 0.29382324
+                value: 0.0009460449
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0.052482665
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+        Landing:
+          PositionSpring:
+            DampingRatio: 10
+            SpringStrength: 115
+            Speed: 1
+          RotationSpring:
+            DampingRatio: 10
+            SpringStrength: 115
+            Speed: 1
+          PositionCurves:
+            _multiplier: 0.015
+            _curveX:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 1
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+            _curveY:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: -5
+                inSlope: -14.683147
+                outSlope: -14.683147
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0.33333334
+                outWeight: 0.3188105
+              - serializedVersion: 3
+                time: 0.1
+                value: -0.0149383545
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+            _curveZ:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 1
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+          RotationCurves:
+            _multiplier: 5
+            _curveX:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: -0.0022773743
+                value: -0.35
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 0.34851074
+                value: -0.011779785
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0.052482665
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+            _curveY:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: 0.5
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 0.059237264
+                value: -1.4934471
+                inSlope: -2.0470343
+                outSlope: -2.0470343
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0.33333334
+                outWeight: 0.061207734
+              - serializedVersion: 3
+                time: 0.3
+                value: 0
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+            _curveZ:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: 2
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 0.09030762
+                value: -1.4987427
+                inSlope: -2.0470343
+                outSlope: -2.0470343
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0.33333334
+                outWeight: 0.061207734
+              - serializedVersion: 3
+                time: 0.3
+                value: 0.0126953125
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+    - rid: 7394553877472215100
+      type: {class: NoiseMotionData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        NoiseSpeed: 1.5
+        Jitter: 0.1
+        PositionAmplitude: {x: 0.00175, y: 0.0025, z: 0.0025}
+        RotationAmplitude: {x: 0.6, y: 0.8, z: 1}
+    - rid: 7394553877472215101
+      type: {class: CloseRangeRetractionData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        RetractionDistance: 1
+        PositionOffset: {x: -0.02, y: -0.04, z: -0.24}
+        RotationOffset: {x: -16, y: -2, z: 15}
+        PositionSpring:
+          DampingRatio: 9
+          SpringStrength: 100
+          Speed: 1
+        RotationSpring:
+          DampingRatio: 9
+          SpringStrength: 100
+          Speed: 1
+    - rid: 7394553877472215102
+      type: {class: BobData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        CalculationMethod: 0
+        TimeBasedBobSpeed: 1
+        PositionSpring:
+          DampingRatio: 10
+          SpringStrength: 120
+          Speed: 1
+        PositionStepImpulseForce:
+          Impulse: {x: 0, y: 0, z: 0}
+          Duration: 0.125
+        PositionAmplitude: {x: 0.001, y: -0.002, z: 0}
+        RotationSpring:
+          DampingRatio: 10
+          SpringStrength: 120
+          Speed: 1
+        RotationStepImpulseForce:
+          Impulse: {x: 0, y: 0, z: 0}
+          Duration: 0.125
+        RotationAmplitude: {x: -0.5, y: 0.5, z: -1.5}
+    - rid: 7394553877472215103
+      type: {class: BobData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        CalculationMethod: 0
+        TimeBasedBobSpeed: 1
+        PositionSpring:
+          DampingRatio: 10
+          SpringStrength: 90
+          Speed: 1
+        PositionStepImpulseForce:
+          Impulse: {x: 0, y: -0.006, z: 0}
+          Duration: 0.075
+        PositionAmplitude: {x: 0.0035, y: -0.003, z: 0}
+        RotationSpring:
+          DampingRatio: 10
+          SpringStrength: 90
+          Speed: 1
+        RotationStepImpulseForce:
+          Impulse: {x: 0, y: 0, z: 1}
+          Duration: 0.1
+        RotationAmplitude: {x: -0.75, y: 0.5, z: -0.5}
+    - rid: 7394553877472215104
+      type: {class: BobData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        CalculationMethod: 0
+        TimeBasedBobSpeed: 1
+        PositionSpring:
+          DampingRatio: 10
+          SpringStrength: 90
+          Speed: 1
+        PositionStepImpulseForce:
+          Impulse: {x: 0, y: -0.02, z: 0}
+          Duration: 0.075
+        PositionAmplitude: {x: 0.02, y: -0.06, z: 0.005}
+        RotationSpring:
+          DampingRatio: 10
+          SpringStrength: 90
+          Speed: 1
+        RotationStepImpulseForce:
+          Impulse: {x: 4, y: 0, z: 7}
+          Duration: 0.1
+        RotationAmplitude: {x: -4, y: 3.5, z: 4}
+    - rid: 7394553877472215105
+      type: {class: BobData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        CalculationMethod: 0
+        TimeBasedBobSpeed: 1
+        PositionSpring:
+          DampingRatio: 10
+          SpringStrength: 90
+          Speed: 1
+        PositionStepImpulseForce:
+          Impulse: {x: 0, y: -0.01, z: 0}
+          Duration: 0.075
+        PositionAmplitude: {x: 0.005, y: -0.004, z: 0}
+        RotationSpring:
+          DampingRatio: 10
+          SpringStrength: 90
+          Speed: 1
+        RotationStepImpulseForce:
+          Impulse: {x: 0, y: 0, z: 2}
+          Duration: 0.1
+        RotationAmplitude: {x: -1.125, y: 0.375, z: -0.875}
+    - rid: 7394553877472215106
+      type: {class: OffsetData, ns: Nexora.FPSDemo.ProceduralMotion, asm: Nexora.FPSDemo}
+      data:
+        PositionSpring:
+          DampingRatio: 12
+          SpringStrength: 120
+          Speed: 1
+        RotationSpring:
+          DampingRatio: 12
+          SpringStrength: 120
+          Speed: 1
+        StateEnterForce:
+          Impulse: {x: -6, y: 3, z: -4.5}
+          Duration: 0.15
+        StateExitForce:
+          Impulse: {x: 4.5, y: -4.5, z: 7.5}
+          Duration: 0.15
+        PositionOffset: {x: 0.003, y: -0.001, z: -0.0125}
+        RotationOffset: {x: -4, y: -2.5, z: 6}

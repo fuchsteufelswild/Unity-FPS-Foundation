@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fcff9a598f6fe0419f9a9b80f1a4ab9, type: 3}
+  m_Name: Surface_Dirt
+  m_EditorClassIdentifier: 
+  _id: 1015322309
+  _speedMultiplier: 1
+  _friction: 0.95
+  _penetrationResistance: 0.2
+  _physicMaterials:
+  - {fileID: 13400000, guid: 83d9494d8c575aa4c8d56a7abd83f376, type: 2}
+  _effectMappings:
+  - EffectType: 1
+    Effects:
+      Visual: {fileID: 0}
+      Decal: {fileID: 0}
+      Audio:
+        Clip: {fileID: 6418180475301049370, guid: ae2f5f9753715444e9bc94d6143dab30, type: 2}
+        Volume: 1
+        Delay: 0
+  - EffectType: 2
+    Effects:
+      Visual: {fileID: 0}
+      Decal: {fileID: 0}
+      Audio:
+        Clip: {fileID: 6418180475301049370, guid: 3d0cf3f4af7ded84fa7f7a00bc6441fb, type: 2}
+        Volume: 1
+        Delay: 0
+  - EffectType: 3
+    Effects:
+      Visual: {fileID: 0}
+      Decal: {fileID: 0}
+      Audio:
+        Clip: {fileID: 6418180475301049370, guid: 419e99d3dd94c01498e9ccf7eefab585, type: 2}
+        Volume: 1
+        Delay: 0
+  - EffectType: 4
+    Effects:
+      Visual: {fileID: 0}
+      Decal: {fileID: 0}
+      Audio:
+        Clip: {fileID: 6418180475301049370, guid: fbc1a35d57abe2f4aa363af8db730609, type: 2}
+        Volume: 1
+        Delay: 0
+  - EffectType: 5
+    Effects:
+      Visual: {fileID: 0}
+      Decal: {fileID: 0}
+      Audio:
+        Clip: {fileID: 6418180475301049370, guid: ee41f9c7c32f76843805d024ac762ae4, type: 2}
+        Volume: 1
+        Delay: 0
+  - EffectType: 6
+    Effects:
+      Visual: {fileID: 0}
+      Decal: {fileID: 0}
+      Audio:
+        Clip: {fileID: 6418180475301049370, guid: ffe9be98a17372c409a7a06ceadf3109, type: 2}
+        Volume: 1
+        Delay: 0
+  - EffectType: 10
+    Effects:
+      Visual: {fileID: 675529358649671577, guid: 5632dd30e047ccc4d8eb03a72f241169, type: 3}
+      Decal: {fileID: 0}
+      Audio:
+        Clip: {fileID: 6418180475301049370, guid: df1abd8c71fbeff4b8b8e1b20040c249, type: 2}
+        Volume: 1
+        Delay: 0
