@@ -4,7 +4,7 @@ A robust, modular data-driven foundation for building first-person shooter games
 
 ## Video Demo
 
-Demo of the project showcasing the main features as a small video, there can be small visual defects due to **Free** assets used in the project.
+Demo video showcasing the core features of the project. Please note that minor visual imperfections may appear due to the use of **Free** placeholder assets. To keep the repository lightweight and easy to download, textures have been stripped out.
 
 [**YouTube Link**](https://youtu.be/YNK7uSQGYds)
 
